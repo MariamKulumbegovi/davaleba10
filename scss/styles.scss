@@ -1,3 +1,6 @@
-body {
-    background-color: red;
-}
+@import './basic/reset';
+@import './moduls/variable';
+@import './moduls/mixins';
+@import  './moduls/private';
+@import './moduls/function';
+@import './pages/firstPage'
